@@ -1,0 +1,12 @@
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\bin\Debug\net6.0\TwilightHunt.deps.json
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\bin\Debug\net6.0\TwilightHunt.dll
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\bin\Debug\net6.0\TwilightHunt.pdb
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.csproj.AssemblyReference.cache
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.AssemblyInfoInputs.cache
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.AssemblyInfo.cs
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.csproj.CoreCompileInputs.cache
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.dll
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\refint\TwilightHunt.dll
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.pdb
+C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\ref\TwilightHunt.dll
