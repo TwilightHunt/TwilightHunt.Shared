@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NaIIwyA1/B10VCGwvn9y8tWyjEoTyl4b5WGKe3OzzjPjk2Mt3o6Uv12FdNoQguww8zMBw69YQ3HFSJ8IRxYcbA==",
+  "dgSpecHash": "ehFcUiJwCtg3XPA8UBhmfr3tNcY72z0LiCkZIw+voeIofNoTYDpx06php1ax58NmHjVJtXhX3bWxEkRdfYtCNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kvizdo\\Documents\\GitHub\\group-friends\\TwilightHunt\\TwilightHunt\\TwilightHunt.Shared.csproj",
+  "projectFilePath": "C:\\Users\\kvizdo\\Documents\\GitHub\\TwilightHunt.Shared\\TwilightHunt\\TwilightHunt\\TwilightHunt.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kvizdo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

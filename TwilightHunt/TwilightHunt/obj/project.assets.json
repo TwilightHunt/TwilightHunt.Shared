@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kvizdo\\Documents\\GitHub\\group-friends\\TwilightHunt\\TwilightHunt\\TwilightHunt.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\kvizdo\\Documents\\GitHub\\TwilightHunt.Shared\\TwilightHunt\\TwilightHunt\\TwilightHunt.Shared.csproj",
       "projectName": "TwilightHunt.Shared",
-      "projectPath": "C:\\Users\\kvizdo\\Documents\\GitHub\\group-friends\\TwilightHunt\\TwilightHunt\\TwilightHunt.Shared.csproj",
+      "projectPath": "C:\\Users\\kvizdo\\Documents\\GitHub\\TwilightHunt.Shared\\TwilightHunt\\TwilightHunt\\TwilightHunt.Shared.csproj",
       "packagesPath": "C:\\Users\\kvizdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kvizdo\\Documents\\GitHub\\group-friends\\TwilightHunt\\TwilightHunt\\obj\\",
+      "outputPath": "C:\\Users\\kvizdo\\Documents\\GitHub\\TwilightHunt.Shared\\TwilightHunt\\TwilightHunt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kvizdo\\AppData\\Roaming\\NuGet\\NuGet.Config",

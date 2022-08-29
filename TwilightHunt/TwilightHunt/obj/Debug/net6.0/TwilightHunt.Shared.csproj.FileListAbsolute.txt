@@ -10,3 +10,15 @@ C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Deb
 C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\refint\TwilightHunt.Shared.dll
 C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.Shared.pdb
 C:\Users\kvizdo\Documents\GitHub\group-friends\TwilightHunt\TwilightHunt\obj\Debug\net6.0\ref\TwilightHunt.Shared.dll
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\bin\Debug\net6.0\TwilightHunt.Shared.deps.json
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\bin\Debug\net6.0\TwilightHunt.Shared.dll
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\bin\Debug\net6.0\TwilightHunt.Shared.pdb
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.Shared.csproj.AssemblyReference.cache
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.Shared.AssemblyInfoInputs.cache
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.Shared.AssemblyInfo.cs
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.Shared.dll
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\refint\TwilightHunt.Shared.dll
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\TwilightHunt.Shared.pdb
+C:\Users\kvizdo\Documents\GitHub\TwilightHunt.Shared\TwilightHunt\TwilightHunt\obj\Debug\net6.0\ref\TwilightHunt.Shared.dll
